@@ -1,6 +1,6 @@
 # image_toast
 
-A new Flutter application.
+a flutter toast using pure dart that can display a background image and so on,because the para is a widget,you can custom the style youself
 
 ## Getting Started
 
